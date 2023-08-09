@@ -1,5 +1,7 @@
 # Bursa Ezan Vakitleri
 
+![alt text]([https://media.giphy.com/media/PIWsogjnvHO8e0J4fs/giphy.gif])
+
 Bu proje, "http://api.aladhan.com" adlı API hizmetini kullanarak Bursa şehrinin namaz vakitlerini alır, bu vakitleri bir veritabanına kaydeder ve daha sonra arayüzde gösterir.
 
 ## Başlangıç
@@ -39,4 +41,4 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için [LİSA
 
 ## İletişim
 
-Herhangi bir soru, öneri veya geribildiriminiz varsa, lütfen [E-Posta Adresi](mailto:ornek@email.com) adresi ile iletişime geçin.
+Herhangi bir soru, öneri veya geribildiriminiz varsa, lütfen [E-Posta Adresi](mailto:saliht94@gmail.com) adresi ile iletişime geçin.
