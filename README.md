@@ -1,6 +1,6 @@
 # Bursa Ezan Vakitleri
 
-![alt text]([https://media.giphy.com/media/PIWsogjnvHO8e0J4fs/giphy.gif])
+![alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25nOGNscmFneDd4aHFxNGx4bWswN29mdDQzZzZ1Y3UxYzh0czc2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lm2K4NRZG3UqtWclie/giphy.gif)
 
 Bu proje, "http://api.aladhan.com" adlı API hizmetini kullanarak Bursa şehrinin namaz vakitlerini alır, bu vakitleri bir veritabanına kaydeder ve daha sonra arayüzde gösterir.
 
